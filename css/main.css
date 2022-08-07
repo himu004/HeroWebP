@@ -1,0 +1,40 @@
+body{
+    background-color: darkgrey;
+}
+h1{
+    text-align: center;
+    color: rgb(128, 0, 247);
+}
+
+.author-name{
+    color: red;
+}
+
+.blog{
+    background-color: bisque;
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 7px;
+    text-align: justify;
+}
+
+.blog_siant{
+    background-color: skyblue;
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 7px;
+    text-align: justify;
+}
+
+.blog_sylhet{
+    background-color: rgb(105, 223, 188);
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 7px;
+    text-align: justify;
+}
+
+.blog-title{
+    color: rgb(76, 20, 96);
+    text-align: center;
+}
